@@ -27,6 +27,9 @@ Awesome Remote Work
 - [Tips to Land a Remote Job](https://moduscreate.com/blog/tips-to-land-a-remote-job/) by Sarah McCasland a product manager at Modus Create.
 
 ## Hiring Sites
+
+
+- [https://tarta.ai/](https://tarta.ai/) - Tarta bot monitors remote jobs and match job seekers with the best ones.
 - [https://workaline.com/](https://workaline.com/)
 - [https://whoishiring.io/](https://whoishiring.io/)
 - [https://findwork.dev/](https://findwork.dev). Jobs aggregator and search engine for software jobs.
@@ -80,6 +83,9 @@ Awesome Remote Work
 - [What Remote Working Means & The Tools We Use at Buffer](https://open.bufferapp.com/remote-working-means-tools-use/), tools used at [Buffer](https://bufferapp.com/).
 - [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work (especially important when working remotely). Also ensures that no billable hours get lost if you are billing hourly.
 - [PukkaTeam](https://pukkateam.com) - Remote team presence tool.
+
+## Housing
+- [Zeus](https://zeusliving.com/) - Furnished neighborhood homes for extended stays designed for remote companies.
 
 ## Law
 
